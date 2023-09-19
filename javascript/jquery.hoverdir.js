@@ -1,11 +1,5 @@
 /**
- * jquery.hoverdir.js v1.1.2
- * http://www.codrops.com
- *
- * Licensed under the MIT license.
- * http://www.opensource.org/licenses/mit-license.php
- *
- * Copyright 2012, Codrops
+ * jquery.hoverdir.js
  * http://www.codrops.com
  */
 (function (factory) {
