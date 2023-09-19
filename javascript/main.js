@@ -1,31 +1,3 @@
-/**
-  * isMobile
-  * flatRetinaLogo
-  * flatAccordion
-  * countDown
-  * flatCounter
-  * goTop
-  * parallax
-  * removePreloader
-  * flatPrice
-  * flatFilterBox
-  * flatShopSearch
-  * topSearch
-  * flexProduct
-  * quantityNumber
-  * flatTabs
-  * flatImagePopup
-  * flatVideoPopup
-  * flatEffectDir
-  * flatIsotope
-  * flatCarouselOwl
-  * searchIcon
-  * headerFixed
-  * responsiveMenu
-  * flatEqualHeight
-  * flatContentBox
-  * swClick
-*/
 
 ;(function($) {
 
